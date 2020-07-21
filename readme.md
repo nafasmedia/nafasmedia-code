@@ -13,7 +13,7 @@ although I am very stupid and still understand a little about it.
 I also have a website, an organization that I made myself. I have a lot of websites and organizations
 that is:
 
-*You can see for yourself what I discussed on my website by pressing the link that I have given above
+__You can see for yourself what I discussed on my website by pressing the link that I have given above
 
 ### My website
 
